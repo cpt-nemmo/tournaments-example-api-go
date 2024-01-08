@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tournaments>
+    <Tournament id="160" level="khl" name="Открытый чемпионат России по хоккею - Чемпионат Континентальной хоккейной лиги" nameEn="Open Russian Ice Hockey Championship - Kontinental Hockey League Championship" seasonPart="regular" season="2008-2009" startDate="2008-09-02" endDate="2009-02-26" gameid="true"/>
+    <Tournament id="165" level="khl" name="Открытый чемпионат России по хоккею - Чемпионат Континентальной хоккейной лиги" nameEn="Open Russian Ice Hockey Championship - Kontinental Hockey League Championship" seasonPart="playoff" season="2008-2009" startDate="2009-03-01" endDate="2009-04-12" gameid="true"/>
+    <Tournament id="167" level="khl" name="Чемпионат Континентальной хоккейной лиги - Открытый чемпионат России по хоккею" nameEn="Kontinental Hockey League Championship - Open Russian Ice Hockey Championship" seasonPart="regular" season="2009-2010" startDate="2009-09-10" endDate="2010-03-07" gameid="true"/>
+    <Tournament id="168" level="khl" name="Чемпионат Континентальной хоккейной лиги - Открытый чемпионат России по хоккею" nameEn="Kontinental Hockey League Championship - Open Russian Ice Hockey Championship" seasonPart="playoff" season="2009-2010" startDate="2010-03-10" endDate="2010-04-27" gameid="true"/>
+</Tournaments>
